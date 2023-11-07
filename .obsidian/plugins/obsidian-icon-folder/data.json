@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#2bff0f",
     "recentlyUsedIcons": [
+      "LiMap",
       "IbFolder",
       "FarFilePdf",
       "TiPdf",
-      "TiSatellite",
-      "TiJumpRope"
+      "TiSatellite"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -170,5 +170,38 @@
   "Colegio/Quimica/Temas/6.Cinetica/6-Cinetica.pdf": "FarFilePdf",
   "Colegio/Quimica/Temas/5. Termoquimica/5-Termoquimica.pdf": "FarFilePdf",
   "Colegio/Quimica/Temas/5. Termoquimica": "IbFolder",
-  "Colegio/Quimica/Temas/6.Cinetica": "IbFolder"
+  "Colegio/Quimica/Temas/6.Cinetica": "IbFolder",
+  "File Map.md": "LiMap",
+  "Past Papers by Subject/Past Papers by Subject.md": "LiMap",
+  "Past Papers by Subject/Group 1 - Studies in Language and Literature": {
+    "iconName": "IbFolder",
+    "inheritanceIcon": "IbFolder"
+  },
+  "Past Papers by Subject/Group 2 - Language Acquisition": {
+    "iconName": "IbFolder",
+    "inheritanceIcon": "IbFolder"
+  },
+  "Past Papers by Subject/Group 3 - Individuals and Societies": {
+    "iconName": "IbFolder",
+    "inheritanceIcon": "IbFolder"
+  },
+  "Past Papers by Subject/Group 4 - Sciences": {
+    "iconName": "IbFolder",
+    "inheritanceIcon": "IbFolder"
+  },
+  "Past Papers by Subject/Group 5 - Mathematics": {
+    "iconName": "IbFolder",
+    "inheritanceIcon": "IbFolder"
+  },
+  "Past Papers by Subject/Group 6 - The arts": "IbFolder",
+  "Past Papers by Subject/Group 4 - Sciences/Sciences.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/Chemistry SL.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_HL/Chemistry HL.md": "LiMap",
+  "Past Papers by Subject/Group 5 - Mathematics/Mathematics.md": "LiMap",
+  "Past Papers by Subject/Group 5 - Mathematics/Mathematics_HL/Mathematics HL.md": "LiMap",
+  "Past Papers by Subject/Group 5 - Mathematics/Mathematics_SL/Mathematics SL.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Physics_HL/Physics HL.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Physics_SL/Physics SL.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Biology_HL/Biology Hl.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Biology_SL/Biology Sl.md": "LiMap"
 }

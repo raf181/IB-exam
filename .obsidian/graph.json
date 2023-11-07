@@ -4,154 +4,56 @@
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag: #Home",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag: #Repos",
-      "color": {
-        "a": 1,
-        "rgb": 6558037
-      }
-    },
-    {
-      "query": "path:Colegio/SAS",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:Colegio/Fisica",
-      "color": {
-        "a": 1,
-        "rgb": 16711914
-      }
-    },
-    {
-      "query": "path:Colegio/Quimica",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:Colegio/Lengua",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:Colegio/Matematicas",
-      "color": {
-        "a": 1,
-        "rgb": 15908386
-      }
-    },
-    {
-      "query": "path:Colegio",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "tag: #Study-material",
+      "query": "path:\"Past Papers by Subject/Group 5 - Mathematics\"  ",
       "color": {
         "a": 1,
         "rgb": 4980991
       }
     },
     {
-      "query": "tag: #cybersec",
+      "query": "path:\"Past Papers by Subject/Group 4 - Sciences/Chemistry_HL\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 13172480
       }
     },
     {
-      "query": "path:Calendar",
+      "query": "path:\"Past Papers by Subject/Group 4 - Sciences/Chemistry_SL\"  ",
       "color": {
         "a": 1,
-        "rgb": 15597823
+        "rgb": 13172480
       }
     },
     {
-      "query": "path:Github",
+      "query": "path:\"Past Papers by Subject/Group 4 - Sciences/Physics_HL\"  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 16741120
       }
     },
     {
-      "query": "tag: #Documentación",
+      "query": "path:\"Past Papers by Subject/Group 4 - Sciences/Physics_SL\"",
       "color": {
         "a": 1,
-        "rgb": 16734464
+        "rgb": 16743168
       }
     },
     {
-      "query": "path:DCS",
+      "query": "path:\"Past Papers by Subject/Group 4 - Sciences/Biology_HL\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 65297
       }
     },
     {
-      "query": "path:\"Tecnologia/Drone swarm\"",
+      "query": "path:\"Past Papers by Subject/Group 4 - Sciences/Biology_SL\"  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:Notion",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:\"Tecnologia/Cybersecurity/Certs/CompTIA A+\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431406
-      }
-    },
-    {
-      "query": "path:Projects",
-      "color": {
-        "a": 1,
-        "rgb": 9175295
-      }
-    },
-    {
-      "query": "tag:#High",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#Midle",
-      "color": {
-        "a": 1,
-        "rgb": 16514816
-      }
-    },
-    {
-      "query": "tag:#Low",
-      "color": {
-        "a": 1,
-        "rgb": 5111552
+        "rgb": 65356
       }
     }
   ],
@@ -165,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.042315902689759176,
-  "close": true
+  "scale": 0.22920135941749353,
+  "close": false
 }
