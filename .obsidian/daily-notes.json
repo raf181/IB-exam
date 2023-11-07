@@ -1,0 +1,5 @@
+{
+  "folder": "Calendar",
+  "format": "not-DD-MM-YYYY",
+  "template": "Plantillas/Plantilla-calendario"
+}

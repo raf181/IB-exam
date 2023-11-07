@@ -1,0 +1,10 @@
+{
+  "accentColor": "#11e41f",
+  "baseFontSize": 18,
+  "cssTheme": "",
+  "textFontFamily": "Satoshi",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "justify"
+  ]
+}

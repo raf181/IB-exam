@@ -1,0 +1,17 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "spellcheckLanguages": null,
+  "showLineNumber": false,
+  "attachmentFolderPath": "Obsidian/Lost and Found",
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative",
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
