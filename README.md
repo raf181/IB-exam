@@ -4,7 +4,7 @@ These is primarily made to be open with [**Obsidian**](https://obsidian.md/), if
 ---
 ## Warning 
 
-These is a relay large repo, you will need 5.5 GB as of 11/07/2023
+These is a relay large repo, you will need 21.2 GB as of 11/07/2023
 
 ---
 

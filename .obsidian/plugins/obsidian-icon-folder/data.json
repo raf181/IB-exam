@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#2bff0f",
     "recentlyUsedIcons": [
+      "TiLicense",
+      "SiPlatformdotsh",
+      "LiNewspaper",
       "LiMap",
-      "IbFolder",
-      "FarFilePdf",
-      "TiPdf",
-      "TiSatellite"
+      "IbFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -203,5 +203,8 @@
   "Past Papers by Subject/Group 4 - Sciences/Physics_HL/Physics HL.md": "LiMap",
   "Past Papers by Subject/Group 4 - Sciences/Physics_SL/Physics SL.md": "LiMap",
   "Past Papers by Subject/Group 4 - Sciences/Biology_HL/Biology Hl.md": "LiMap",
-  "Past Papers by Subject/Group 4 - Sciences/Biology_SL/Biology Sl.md": "LiMap"
+  "Past Papers by Subject/Group 4 - Sciences/Biology_SL/Biology Sl.md": "LiMap",
+  "Past Papers by Subject": "LiNewspaper",
+  "README.md": "SiPlatformdotsh",
+  "LICENSE": "TiLicense"
 }
