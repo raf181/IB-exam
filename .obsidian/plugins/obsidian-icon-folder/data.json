@@ -185,10 +185,7 @@
     "iconName": "IbFolder",
     "inheritanceIcon": "IbFolder"
   },
-  "Past Papers by Subject/Group 4 - Sciences": {
-    "iconName": "IbFolder",
-    "inheritanceIcon": "IbFolder"
-  },
+  "Past Papers by Subject/Group 4 - Sciences": "IbFolder",
   "Past Papers by Subject/Group 5 - Mathematics": {
     "iconName": "IbFolder",
     "inheritanceIcon": "IbFolder"
@@ -206,5 +203,25 @@
   "Past Papers by Subject/Group 4 - Sciences/Biology_SL/Biology Sl.md": "LiMap",
   "Past Papers by Subject": "LiNewspaper",
   "README.md": "SiPlatformdotsh",
-  "LICENSE": "TiLicense"
+  "LICENSE": "TiLicense",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/1999/1999.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2000/2000.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2001/2001.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Biology_HL": "IbFolder",
+  "Past Papers by Subject/Group 4 - Sciences/Biology_SL": "IbFolder",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_HL": "IbFolder",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL": "IbFolder",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2002/2002.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2003/2003.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2004/2004.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2005/2005.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2006/2006.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2007/2007.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2022/2022.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2021/2021.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2019/2019.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2018/2018.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2017/2017.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2016/2016.md": "LiMap",
+  "Past Papers by Subject/Group 4 - Sciences/Chemistry_SL/2008/2008.md": "LiMap"
 }

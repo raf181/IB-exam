@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Past Papers by Subject/Group 5 - Mathematics\"  ",
@@ -63,10 +63,10 @@
   "nodeSizeMultiplier": 1.50896524795002,
   "lineSizeMultiplier": 1.50364583333333,
   "collapse-forces": true,
-  "centerStrength": 0.202577118313159,
+  "centerStrength": 0.317047817047817,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.22920135941749353,
+  "linkDistance": 249,
+  "scale": 0.09848280266864441,
   "close": false
 }
